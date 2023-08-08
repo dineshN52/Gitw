@@ -1,2 +1,0 @@
-This is a Hello world program
-We are on a new branch 
